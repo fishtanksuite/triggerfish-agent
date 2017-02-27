@@ -11,5 +11,5 @@ python __main__.py
 ## Requirements
 
 ```console
-pip install -r requirements
+pip install -r requirements.txt
 ```
